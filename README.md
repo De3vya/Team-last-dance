@@ -12,3 +12,6 @@ Practice GitHub workflow using branches and commits
 - Make commits
 - Open pull request
 - Merge changes
+
+## Done
+ Branch created and edits committed
